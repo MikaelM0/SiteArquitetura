@@ -1,0 +1,14 @@
+td{
+border: 2px solid green;
+padding: 2px;
+text-align: center;
+background-color: aquamarine;
+}
+
+th{
+    border: 2px solid green;
+padding: 2px;
+text-align: center;
+background-color: aquamarine;
+}
+
